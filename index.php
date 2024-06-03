@@ -1,3 +1,3 @@
 <?php
-echo "VERSION 1: BLUE, POD IP: ".$_SERVER['SERVER_ADDR'];
+echo "NEW VERSION 2: It's BLUE, POD IP: ".$_SERVER['SERVER_ADDR'];
 ?>
